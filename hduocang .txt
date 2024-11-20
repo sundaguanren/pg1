@@ -1,0 +1,28 @@
+{
+    "urls": [
+        {
+            "url": "https://json.doube.eu.org/t4.php",
+            "name": "H1"
+        },
+        {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/video.json",
+            "name": "H2"
+        },
+
+
+        {
+            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
+            "name": "H3"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json",
+            "name": "H4"
+        },
+
+       {
+      "url": "https://gitdl.cn/https://raw.githubusercontent.com/sundaguanren/pg1/refs/heads/main/jsm-18x.json",
+      "name": "H5 "
+       }
+
+    ]
+}
