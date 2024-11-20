@@ -1,5 +1,5 @@
 {
-    "spider": "./pg.jar",
+    "spider": "./pg.jar;md5;2e3a4fdb8c822a3ca34eebb3879edcb4",
     "sites": [
         {
             "key": "TGDouban",
@@ -55,6 +55,17 @@
             "changeable": 1,
             "ext": "./lib/jianpian.json$$$1",
             "timeout": 60
+        },
+        {
+            "key": "lf_js_p2p",
+            "name": "路飞 | 18搜",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./lib/lf_p2p2_min.js",
+            "ext": "18+"
         },
         {
             "key": "直播转点播",
