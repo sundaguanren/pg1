@@ -1,11 +1,11 @@
 {
     "urls": [
         {
-            "url": "https://go.100100100.icu/https://raw.githubusercontent.com/sundaguanren/pg1/refs/heads/main/jsm-18x.json",
+            "url": "https://go.100100100.icu/https://raw.githubusercontent.com/wwb521/live/main/video.json",
             "name": "H1"
         },
         {
-            "url": "https://go.100100100.icu/https://raw.githubusercontent.com/wwb521/live/main/video.json",
+            "url": "https://go.100100100.icu/https://raw.githubusercontent.com/sundaguanren/pg1/refs/heads/main/jsm-18x.json",
             "name": "H2"
         },
 
